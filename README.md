@@ -12,3 +12,7 @@ This will pause your timer not only during loading but also when saving or when 
 # Support
 
 Works on 64bit, I do not know about 32bit but it should work.
+
+# Example
+
+https://youtu.be/YPRpd0H5zmk
