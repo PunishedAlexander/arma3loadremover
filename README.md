@@ -8,7 +8,7 @@ Edit your LiveSplit layout and add a Scriptable Auto Splitter.
 
 Browse to the downloaded file.
 
-Make sure to disable Battleye in your launcher or else it will not work. (Its probably blocking it from reading the game memory?)
+Make sure to disable Battleye in your launcher or else it will not work.
 
 Make sure to compare your times against game time.
 
