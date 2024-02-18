@@ -1,27 +1,21 @@
-# arma3-loadremover
+# aWhat does this do?
 
-This asl script removes loading times for ArmA 3.
+Removes loading times for ArmA 3.
 
-# How to make it work
+# How do I make it work?
 
 Edit your LiveSplit layout and add a Scriptable Auto Splitter.
 
-Browse to the downloaded file.
+Browse to the downloaded file and select it.
 
-Make sure to disable Battleye in your launcher or else it will not work.
+Don't forget to compare against game time.
 
-Make sure to compare your times against game time.
+# Launcher Settings
 
-This will pause your timer not only during loading but also when saving or when you open the menu.
+You have to disable Battleye in the Arma laucher.
 
 # Support
 
 Forum link to Speedrun.com 
 
 https://www.speedrun.com/arma3/thread/6bhkr
-
-Works on 64bit, I do not know about 32bit but it should work.
-
-# Example
-
-https://youtu.be/YPRpd0H5zmk
