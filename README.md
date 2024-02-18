@@ -1,4 +1,4 @@
-# aWhat does this do?
+# What does this do?
 
 Removes loading times for ArmA 3.
 
