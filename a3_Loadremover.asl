@@ -1,10 +1,9 @@
 state("Arma3_x64")
 {
-		byte load : 0x2597B40, 0x548;
-		byte load : 0x25BFE10, 0xF50;
+		byte load : 0x26E0CF4;
 }
 
 isLoading
 {
-		return current.load == 0;
+		return current.load == 2;
 }
